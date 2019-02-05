@@ -1,13 +1,13 @@
-# BREAST CANCER PREDICTION
+<h1># BREAST CANCER PREDICTION</h1>
 
-This project is based on predicting the type of breast cancer among two breast cancers (i.e malignant and benign) 
-In this project i have used Random forest classifier which classifies the type of cancers.
+<p>This project is based on predicting the type of breast cancer among two breast cancers (i.e malignant and benign) 
+In this project i have used Random forest classifier which classifies the type of cancers.</p><br>
 
-Make sure you have the following packages installed.
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score
+<h2>Make sure you have the following packages installed.</h2>
+<p>import numpy as np</p>
+<p>import pandas as pd</p>
+<p>import matplotlib.pyplot as plt</p>
+<p>from sklearn.metrics import accuracy_score</p>
 
 
 Thank you
