@@ -1,3 +1,5 @@
+# BREAST CANCER PREDICTION
+
 This project is based on predicting the type of breast cancer among two breast cancers (i.e malignant and benign) 
 In this project i have used Random forest classifier which classifies the type of cancers.
 
